@@ -1,0 +1,28 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "br.com.christian.realidade_aumentada"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "br.com.christian.realidade_aumentada"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "br.com.christian.realidade_aumentada"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "br.com.christian.realidade_aumentada"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "br.com.christian.realidade_aumentada"
+        }
+    }
+}
